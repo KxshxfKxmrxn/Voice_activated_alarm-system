@@ -1,0 +1,6 @@
+datetime
+speech_recognition
+time
+playsound
+pyttsx3
+thread
