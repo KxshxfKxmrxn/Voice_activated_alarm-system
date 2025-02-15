@@ -19,7 +19,12 @@ The **Voice-Activated Alarm System** is a Python-based program that lets users s
 - **Playsound** (Alarm sound playback)  
 - **Threading** (For parallel execution)  
 
-### 📂 Installation & Setup  
+### 📂 Installation & Setup
+
+2️⃣ Install dependencies from `requirements.txt`:  
+```bash
+pip install -r requirements.txt
+```  
 1️⃣ Clone this repository or download the script:  
 ```bash
 git clone https://github.com/KxshxfKxmrxn/voice-activated-alarm.git
